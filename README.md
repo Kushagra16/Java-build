@@ -1,8 +1,8 @@
 Passing all test cases for a Java code using Gradle build tool
 
 TASK INVOLVED:
-Create "getters" and "setters" on Person
-Ensure that Person.setAge() throws an IllegalArgumentException when passed a value less than zero
+1.Create "getters" and "setters" on Person
+2.Ensure that Person.setAge() throws an IllegalArgumentException when passed a value less than zero
 Ensure that Person.setName() throws an IllegalArgumentException when passed a null String
 Write a Person.count() that returns the total number of Person instances created
 Ensure that Person.equals() returns true if two Person instances have the same name and age (salary doesn't factor into equality comparison). Make sure no exceptions are thrown from this method--anything "weird" should just return false.
