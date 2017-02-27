@@ -1,4 +1,6 @@
-Passing all test cases for a Java code using Gradle build tool
+OBJECTIVES:
+
+Build and enhance the java code and make all the unit test cases pass
 
 TASK INVOLVED:
 
