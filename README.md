@@ -1,6 +1,6 @@
 OBJECTIVES:
 
-Build and enhance the java code and make all the unit test cases pass
+Build and enhance the java code and make all the unit test cases pass.
 
 TASK INVOLVED:
 
